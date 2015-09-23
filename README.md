@@ -1,2 +1,2 @@
 # kicad-libraries
-Custom made libraries for Kicad
+Those are custom libaries I made for use with Kicad
